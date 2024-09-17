@@ -1,6 +1,7 @@
 # About
 
 Python implementation of "Challenge 2".
+
 Requirement: private
 
 # Usage
